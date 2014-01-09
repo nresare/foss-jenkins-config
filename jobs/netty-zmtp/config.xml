@@ -26,10 +26,6 @@
   <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
   <triggers class="vector"/>
   <concurrentBuild>false</concurrentBuild>
-  <rootModule>
-    <groupId>com.spotify</groupId>
-    <artifactId>netty-zmtp</artifactId>
-  </rootModule>
   <aggregatorStyleBuild>true</aggregatorStyleBuild>
   <incrementalBuild>false</incrementalBuild>
   <perModuleEmail>true</perModuleEmail>
